@@ -8849,30 +8849,6 @@ redux-actions@^2.6.4:
     reduce-reducers "^0.4.3"
     to-camel-case "^1.0.0"
 
-redux-api-call-adapter-dedupe@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/redux-api-call-adapter-dedupe/-/redux-api-call-adapter-dedupe-1.0.0.tgz#e9f0cf304969d7ba22ab56b32872a4c9e04b5057"
-  integrity sha512-ewLEW5XUa06DefjqglV0Bvgnhfyz5ngvkEqgnwjVNz/94epJoO6Cp+LY3kC2f3NGrkbeW0ZqoXAoCZ4w6e41UQ==
-
-redux-api-call-adapter-fetch@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/redux-api-call-adapter-fetch/-/redux-api-call-adapter-fetch-1.0.0.tgz#94dd01a1a831cc638dcb1371195b65058a4d2946"
-  integrity sha512-PCk22n0JR656xgjuiiE8K2LR2NlmDhkV4WHOsFUE9ep/9/EFHYoP0Gb8SO4bN7Ju3K6SdgbQEEs3ZANugpa6MQ==
-
-redux-api-call-adapter-json@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/redux-api-call-adapter-json/-/redux-api-call-adapter-json-1.0.0.tgz#f91ade4f46b7cc711954da7601277eb2fd70b52f"
-  integrity sha512-6WLYQ1/0Gd8oer5UmGq5E1KzWAbaYf8p7+8Jctf45d8ErpOCbxtPskIxEL53T+5EIyDDCRgDUc4HMYDA4mtebw==
-
-redux-api-call@^1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/redux-api-call/-/redux-api-call-1.0.9.tgz#f14d5013a250b6708e48870ad6a27a96fa759d09"
-  integrity sha512-hWE5D40/BZHmj574TenVIyLdc2srFEcviuqs6l7HdyINjoFMMp5L/4AxWYXH7oxruZX7ElKNM0MOw+KsWYZngQ==
-  dependencies:
-    redux-api-call-adapter-dedupe "^1.0.0"
-    redux-api-call-adapter-fetch "^1.0.0"
-    redux-api-call-adapter-json "^1.0.0"
-
 redux-form@^8.1.0:
   version "8.1.0"
   resolved "https://registry.yarnpkg.com/redux-form/-/redux-form-8.1.0.tgz#087b39eaa96b6f5cc0764a30eca10e0459884cce"
@@ -8900,11 +8876,6 @@ redux-observable@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/redux-observable/-/redux-observable-1.0.0.tgz#780ff2455493eedcef806616fe286b454fd15d91"
   integrity sha512-6bXnpqWTBeLaLQjXHyN1giXq4nLxCmv+SUkdmiwBgvmVxvDbdmydvL1Z7DGo0WItyzI/kqXQKiucUuTxnrPRkA==
-
-redux-persist@^5.10.0:
-  version "5.10.0"
-  resolved "https://registry.yarnpkg.com/redux-persist/-/redux-persist-5.10.0.tgz#5d8d802c5571e55924efc1c3a9b23575283be62b"
-  integrity sha512-sSJAzNq7zka3qVHKce1hbvqf0Vf5DuTVm7dr4GtsqQVOexnrvbV47RWFiPxQ8fscnyiuWyD2O92DOxPl0tGCRg==
 
 redux-thunk@^2.3.0:
   version "2.3.0"
