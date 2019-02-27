@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "type": "product",
+    "QA": "How do I write a product review?"
+  },
+  {
+    "id": 2,
+    "type": "mobile",
+    "QA": "How do I use the mobile remote control service?"
+  },
+  {
+    "id": 3,
+    "type": "product",
+    "QA": "How do I write a product review?"
+  },
+  {
+    "id": 4,
+    "type": "mobile",
+    "QA": "How do I use the mobile remote control service?"
+  },
+  {
+    "id": 5,
+    "type": "product",
+    "QA": "How do I write a product review?"
+  },
+  {
+    "id": 6,
+    "type": "mobile",
+    "QA": "How do I use the mobile remote control service?"
+  },
+  {
+    "id": 7,
+    "type": "product",
+    "QA": "How do I write a product review?"
+  },
+  {
+    "id": 8,
+    "type": "mobile",
+    "QA": "How do I use the mobile remote control service?"
+  }
+]
