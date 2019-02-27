@@ -2,6 +2,7 @@ import { Route } from 'react-router-dom';
 import React from 'react';
 import Home from '../home';
 import ProgressTest from '../progress';
+import ListCard from '../listCard';
 
 const PureLayout = () => (
   <div
@@ -15,6 +16,7 @@ const PureLayout = () => (
   >
     <Route exact path="/" component={Home} />
     <Route exact path="/test3" component={ProgressTest} />
+    <Route exact path="/test2" component={ListCard} />
   </div>
 );
 
