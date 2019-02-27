@@ -1,0 +1,7 @@
+[
+  { "id": 1, "displayName": "1st User", "progress": 50, "color": "#0000FF" },
+  { "id": 2, "displayName": "2nd User", "progress": 30, "color": "#DB143C" },
+  { "id": 3, "displayName": "3rd User", "progress": 10, "color": "#ff8c00" },
+  { "id": 4, "displayName": "4th User", "progress": 20, "color": "#ff8c00" },
+  { "id": 5, "displayName": "5th User", "progress": 15, "color": "#FF69B3" }
+]
