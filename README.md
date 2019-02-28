@@ -1,3 +1,5 @@
+[![Heroku](https://heroku-badge.herokuapp.com/?app=ion-code-test)]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
